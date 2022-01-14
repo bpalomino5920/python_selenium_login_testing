@@ -3,7 +3,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-# This testing program will login into Udemy with using url, inputting values, and clicking submit button. It should then able to login you in.
+# This testing program will login into Udemy with using url, inputting values, and clicking submit button. It should then able to log you in.
 # working on conditional commands (status)
 
 driver = webdriver.Chrome(executable_path="C:\Drivers\chromedriver")
